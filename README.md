@@ -8,8 +8,5 @@ Technologies: ```.html```, ```.css```, ```.scss```, ```.js```, ```.json```, ```.
 
 Passionate about making the web more accessible and enthusiastic about making new friends. so if you want to say hi, happy to meet you.
 
-[LinkedIn](https://www.linkedin.com/in/joeldorosarioo/) 
-•
-[Spotify](https://open.spotify.com/user/9ir9rtq9g1rnb8u9jnixx2akm?si=svh2y_KIQvufAk5EGvJxig)
-•
-[Instagram](https://www.instagram.com/joeldorosarioo/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-007ec6?style=for-the-badge)](https://www.linkedin.com/in/joeldorosarioo/) 
+[![Instagram](https://img.shields.io/badge/instagram-f66362?style=for-the-badge)](https://www.instagram.com/joeldorosarioo/)
