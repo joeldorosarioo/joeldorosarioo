@@ -4,7 +4,7 @@
 
 I was born in São Paulo, Brazil and I work as a Front-End Developer specializing in the entire JavaScript ecosystem, including TypeScript, React.js and Next.js. I hold a Bachelor’s Degree in Computer Science from Cruzeiro do Sul University.
 
-Currently, I’m focused on building accessible, human-centered products.
+I am a self-taught Front-End Developer focused on developing accessible and comprehensive products and digital experiences.
 
 ![Most Used Language Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=joeldorosarioo&hide_progress=true&theme=transparent)
 
